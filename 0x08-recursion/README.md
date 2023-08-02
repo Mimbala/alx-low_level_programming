@@ -1,1 +1,3 @@
-0x08-recursion
+project C on recursion
+
+Mimbala @Pythonguru
