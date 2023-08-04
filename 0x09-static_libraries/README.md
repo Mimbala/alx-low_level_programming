@@ -1,1 +1,1 @@
-0x09-static_libraries
+Project task on Static_libraries
